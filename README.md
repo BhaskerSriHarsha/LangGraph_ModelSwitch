@@ -17,3 +17,4 @@ This is a simple repo and does not need many libraries. Installing Langgraph, la
 
 ### Running the notebook
 The notebook has enough comments in place and is self explanatory. Remember to provide your API key when initializing the LLM models.
+The repo has two notebooks (main.ipynb and main_chathistory.ipynb), while the first file demonstrates a simple version that takes one input and return one output, the second notebook demonstrates logic to retain the chat history of the conversation.
