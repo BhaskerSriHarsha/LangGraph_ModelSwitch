@@ -3,7 +3,7 @@
 A simple langGraph implementation for switching between small and reasoning models to reduce inference costs.
 
 <p align="center">
-  <img src = "images/main_wallpaper.png" alt="Main wallpaper">
+  <img src = "images/main_wallpaper_2.png" alt="Main wallpaper">
 </p>
 
 ### Description
